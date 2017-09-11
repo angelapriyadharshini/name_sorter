@@ -1,0 +1,1466 @@
+﻿
+2017-09-10T13:13:07: Start analysis
+2017-09-10T13:13:07: [WARNING] Library was set explicitly - skipping path detection
+2017-09-10T13:13:07: IncludeModulesFromModulePath = win32com
+2017-09-10T13:13:08: Deleting 0 files
+2017-09-10T13:13:08: Scraping builtin modules
+2017-09-10T13:13:08: Command: "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-09-10T13:13:09: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-09-10T13:13:09: Scraped builtin modules
+2017-09-10T13:13:09: Scraping markupsafe._speedups
+2017-09-10T13:13:09: Command: "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\ExtensionScraper.py" scrape markupsafe._speedups "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages" "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\.ptvs\markupsafe\markupsafe._speedups"
+2017-09-10T13:13:10: Scraped 1 files
+2017-09-10T13:13:10: astropy.CallDepth = 0
+2017-09-10T13:13:10: matplotlib.CallDepth = 3
+2017-09-10T13:13:10: pandas.CallDepth = 0
+2017-09-10T13:13:10: sympy.CallDepth = 0
+2017-09-10T13:13:10: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib" with 179 files
+2017-09-10T13:13:10: Parsing "abc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\abc.py")
+2017-09-10T13:13:10: Parsing "base64" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\base64.py")
+2017-09-10T13:13:10: Parsing "bisect" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\bisect.py")
+2017-09-10T13:13:10: Parsing "codecs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\codecs.py")
+2017-09-10T13:13:10: Parsing "copy" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\copy.py")
+2017-09-10T13:13:10: Parsing "copyreg" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\copyreg.py")
+2017-09-10T13:13:10: Parsing "enum" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\enum.py")
+2017-09-10T13:13:10: Parsing "fnmatch" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\fnmatch.py")
+2017-09-10T13:13:10: Parsing "functools" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\functools.py")
+2017-09-10T13:13:10: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\functools.py" contained parse errors
+2017-09-10T13:13:10: (279,38) - (279,43) only one * allowed
+(286,22) - (286,33) invalid syntax
+(286,34) - (286,37) unexpected token 'for'
+(286,69) - (286,70) unexpected token ')'
+(286,70) - (287,9) unexpected token '<newline>'
+(287,9) - (287,11) unexpected token 'if'
+(287,48) - (287,49) unexpected token ':'
+(287,49) - (288,13) unexpected token '<newline>'
+(287,49) - (288,13) unexpected token '<indent>'
+(288,21) - (288,62) invalid syntax
+(289,9) - (289,15) 'return' outside function
+(289,17) - (289,48) invalid syntax
+(299,30) - (299,75) invalid syntax
+(299,75) - (299,76) unexpected token ')'
+(299,76) - (300,9) unexpected token '<newline>'
+(299,76) - (300,9) unexpected token '<dedent>'
+2017-09-10T13:13:10: Parsing "genericpath" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\genericpath.py")
+2017-09-10T13:13:10: Parsing "hashlib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\hashlib.py")
+2017-09-10T13:13:10: Parsing "heapq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\heapq.py")
+2017-09-10T13:13:10: Parsing "hmac" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\hmac.py")
+2017-09-10T13:13:10: Parsing "imp" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\imp.py")
+2017-09-10T13:13:10: Parsing "io" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\io.py")
+2017-09-10T13:13:10: Parsing "keyword" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\keyword.py")
+2017-09-10T13:13:10: Parsing "linecache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\linecache.py")
+2017-09-10T13:13:10: Parsing "locale" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\locale.py")
+2017-09-10T13:13:10: Parsing "ntpath" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\ntpath.py")
+2017-09-10T13:13:10: Parsing "operator" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\operator.py")
+2017-09-10T13:13:10: Parsing "os" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\os.py")
+2017-09-10T13:13:10: Parsing "posixpath" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\posixpath.py")
+2017-09-10T13:13:10: Parsing "random" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\random.py")
+2017-09-10T13:13:10: Parsing "re" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\re.py")
+2017-09-10T13:13:10: Parsing "reprlib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\reprlib.py")
+2017-09-10T13:13:10: Parsing "rlcompleter" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\rlcompleter.py")
+2017-09-10T13:13:10: Parsing "shutil" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\shutil.py")
+2017-09-10T13:13:10: Parsing "site" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site.py")
+2017-09-10T13:13:10: Parsing "sre_compile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\sre_compile.py")
+2017-09-10T13:13:10: Parsing "sre_constants" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\sre_constants.py")
+2017-09-10T13:13:10: Parsing "sre_parse" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\sre_parse.py")
+2017-09-10T13:13:10: Parsing "stat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\stat.py")
+2017-09-10T13:13:10: Parsing "struct" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\struct.py")
+2017-09-10T13:13:10: Parsing "tarfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\tarfile.py")
+2017-09-10T13:13:11: Parsing "tempfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\tempfile.py")
+2017-09-10T13:13:11: Parsing "token" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\token.py")
+2017-09-10T13:13:11: Parsing "tokenize" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\tokenize.py")
+2017-09-10T13:13:11: Parsing "types" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\types.py")
+2017-09-10T13:13:11: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\types.py" contained parse errors
+2017-09-10T13:13:11: (28,5) - (28,10) 'yield' inside async function
+2017-09-10T13:13:11: Parsing "warnings" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\warnings.py")
+2017-09-10T13:13:11: Parsing "weakref" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\weakref.py")
+2017-09-10T13:13:11: Parsing "_bootlocale" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\_bootlocale.py")
+2017-09-10T13:13:11: Parsing "_collections_abc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\_collections_abc.py")
+2017-09-10T13:13:11: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\_collections_abc.py" contained parse errors
+2017-09-10T13:13:11: (64,18) - (64,23) 'yield' inside async function
+2017-09-10T13:13:11: Parsing "_dummy_thread" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\_dummy_thread.py")
+2017-09-10T13:13:11: Parsing "_weakrefset" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\_weakrefset.py")
+2017-09-10T13:13:11: Parsing "__future__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\__future__.py")
+2017-09-10T13:13:11: Parsing "collections.abc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\collections\abc.py")
+2017-09-10T13:13:11: Parsing "collections" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\collections\__init__.py")
+2017-09-10T13:13:11: Parsing "distutils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\distutils\__init__.py")
+2017-09-10T13:13:11: Parsing "encodings.aliases" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\aliases.py")
+2017-09-10T13:13:11: Parsing "encodings.ascii" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\ascii.py")
+2017-09-10T13:13:11: Parsing "encodings.base64_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\base64_codec.py")
+2017-09-10T13:13:11: Parsing "encodings.big5" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\big5.py")
+2017-09-10T13:13:11: Parsing "encodings.big5hkscs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\big5hkscs.py")
+2017-09-10T13:13:11: Parsing "encodings.bz2_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\bz2_codec.py")
+2017-09-10T13:13:11: Parsing "encodings.charmap" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\charmap.py")
+2017-09-10T13:13:11: Parsing "encodings.cp037" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp037.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1006" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1006.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1026" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1026.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1125" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1125.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1140" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1140.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1250" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1250.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1251" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1251.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1252" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1252.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1253" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1253.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1254" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1254.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1255" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1255.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1256" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1256.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1257" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1257.py")
+2017-09-10T13:13:11: Parsing "encodings.cp1258" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp1258.py")
+2017-09-10T13:13:11: Parsing "encodings.cp273" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp273.py")
+2017-09-10T13:13:11: Parsing "encodings.cp424" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp424.py")
+2017-09-10T13:13:11: Parsing "encodings.cp437" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp437.py")
+2017-09-10T13:13:11: Parsing "encodings.cp500" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp500.py")
+2017-09-10T13:13:11: Parsing "encodings.cp65001" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp65001.py")
+2017-09-10T13:13:11: Parsing "encodings.cp720" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp720.py")
+2017-09-10T13:13:11: Parsing "encodings.cp737" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp737.py")
+2017-09-10T13:13:11: Parsing "encodings.cp775" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp775.py")
+2017-09-10T13:13:11: Parsing "encodings.cp850" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp850.py")
+2017-09-10T13:13:11: Parsing "encodings.cp852" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp852.py")
+2017-09-10T13:13:11: Parsing "encodings.cp855" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp855.py")
+2017-09-10T13:13:11: Parsing "encodings.cp856" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp856.py")
+2017-09-10T13:13:11: Parsing "encodings.cp857" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp857.py")
+2017-09-10T13:13:11: Parsing "encodings.cp858" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp858.py")
+2017-09-10T13:13:11: Parsing "encodings.cp860" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp860.py")
+2017-09-10T13:13:11: Parsing "encodings.cp861" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp861.py")
+2017-09-10T13:13:11: Parsing "encodings.cp862" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp862.py")
+2017-09-10T13:13:11: Parsing "encodings.cp863" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp863.py")
+2017-09-10T13:13:11: Parsing "encodings.cp864" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp864.py")
+2017-09-10T13:13:11: Parsing "encodings.cp865" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp865.py")
+2017-09-10T13:13:11: Parsing "encodings.cp866" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp866.py")
+2017-09-10T13:13:11: Parsing "encodings.cp869" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp869.py")
+2017-09-10T13:13:11: Parsing "encodings.cp874" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp874.py")
+2017-09-10T13:13:11: Parsing "encodings.cp875" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp875.py")
+2017-09-10T13:13:11: Parsing "encodings.cp932" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp932.py")
+2017-09-10T13:13:11: Parsing "encodings.cp949" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp949.py")
+2017-09-10T13:13:11: Parsing "encodings.cp950" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\cp950.py")
+2017-09-10T13:13:11: Parsing "encodings.euc_jisx0213" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\euc_jisx0213.py")
+2017-09-10T13:13:11: Parsing "encodings.euc_jis_2004" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\euc_jis_2004.py")
+2017-09-10T13:13:11: Parsing "encodings.euc_jp" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\euc_jp.py")
+2017-09-10T13:13:11: Parsing "encodings.euc_kr" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\euc_kr.py")
+2017-09-10T13:13:11: Parsing "encodings.gb18030" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\gb18030.py")
+2017-09-10T13:13:11: Parsing "encodings.gb2312" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\gb2312.py")
+2017-09-10T13:13:11: Parsing "encodings.gbk" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\gbk.py")
+2017-09-10T13:13:11: Parsing "encodings.hex_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\hex_codec.py")
+2017-09-10T13:13:11: Parsing "encodings.hp_roman8" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\hp_roman8.py")
+2017-09-10T13:13:11: Parsing "encodings.hz" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\hz.py")
+2017-09-10T13:13:11: Parsing "encodings.idna" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\idna.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp_1" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp_1.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp_2" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp_2.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp_2004" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp_2004.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp_3" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp_3.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_jp_ext" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_jp_ext.py")
+2017-09-10T13:13:11: Parsing "encodings.iso2022_kr" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso2022_kr.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_1" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_1.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_10" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_10.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_11" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_11.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_13" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_13.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_14" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_14.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_15" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_15.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_16" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_16.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_2" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_2.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_3" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_3.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_4" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_4.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_5" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_5.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_6" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_6.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_7" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_7.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_8" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_8.py")
+2017-09-10T13:13:11: Parsing "encodings.iso8859_9" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\iso8859_9.py")
+2017-09-10T13:13:11: Parsing "encodings.johab" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\johab.py")
+2017-09-10T13:13:11: Parsing "encodings.koi8_r" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\koi8_r.py")
+2017-09-10T13:13:11: Parsing "encodings.koi8_t" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\koi8_t.py")
+2017-09-10T13:13:11: Parsing "encodings.koi8_u" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\koi8_u.py")
+2017-09-10T13:13:11: Parsing "encodings.kz1048" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\kz1048.py")
+2017-09-10T13:13:11: Parsing "encodings.latin_1" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\latin_1.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_arabic" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_arabic.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_centeuro" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_centeuro.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_croatian" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_croatian.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_cyrillic" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_cyrillic.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_farsi" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_farsi.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_greek" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_greek.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_iceland" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_iceland.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_latin2" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_latin2.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_roman" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_roman.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_romanian" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_romanian.py")
+2017-09-10T13:13:11: Parsing "encodings.mac_turkish" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mac_turkish.py")
+2017-09-10T13:13:11: Parsing "encodings.mbcs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\mbcs.py")
+2017-09-10T13:13:11: Parsing "encodings.oem" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\oem.py")
+2017-09-10T13:13:11: Parsing "encodings.palmos" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\palmos.py")
+2017-09-10T13:13:11: Parsing "encodings.ptcp154" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\ptcp154.py")
+2017-09-10T13:13:11: Parsing "encodings.punycode" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\punycode.py")
+2017-09-10T13:13:11: Parsing "encodings.quopri_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\quopri_codec.py")
+2017-09-10T13:13:11: Parsing "encodings.raw_unicode_escape" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\raw_unicode_escape.py")
+2017-09-10T13:13:11: Parsing "encodings.rot_13" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\rot_13.py")
+2017-09-10T13:13:11: Parsing "encodings.shift_jis" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\shift_jis.py")
+2017-09-10T13:13:11: Parsing "encodings.shift_jisx0213" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\shift_jisx0213.py")
+2017-09-10T13:13:11: Parsing "encodings.shift_jis_2004" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\shift_jis_2004.py")
+2017-09-10T13:13:11: Parsing "encodings.tis_620" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\tis_620.py")
+2017-09-10T13:13:11: Parsing "encodings.undefined" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\undefined.py")
+2017-09-10T13:13:11: Parsing "encodings.unicode_escape" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\unicode_escape.py")
+2017-09-10T13:13:11: Parsing "encodings.unicode_internal" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\unicode_internal.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_16" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_16.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_16_be" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_16_be.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_16_le" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_16_le.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_32" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_32.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_32_be" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_32_be.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_32_le" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_32_le.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_7" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_7.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_8" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_8.py")
+2017-09-10T13:13:11: Parsing "encodings.utf_8_sig" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\utf_8_sig.py")
+2017-09-10T13:13:11: Parsing "encodings.uu_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\uu_codec.py")
+2017-09-10T13:13:11: Parsing "encodings.zlib_codec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\zlib_codec.py")
+2017-09-10T13:13:11: Parsing "encodings" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\encodings\__init__.py")
+2017-09-10T13:13:11: Parsing "importlib.abc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\abc.py")
+2017-09-10T13:13:11: Parsing "importlib.machinery" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\machinery.py")
+2017-09-10T13:13:11: Parsing "importlib.util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\util.py")
+2017-09-10T13:13:11: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\util.py" contained parse errors
+2017-09-10T13:13:11: (25,27) - (25,67) invalid syntax
+(26,26) - (26,64) invalid syntax
+(26,64) - (26,65) unexpected token ')'
+(26,65) - (27,5) unexpected token '<newline>'
+(26,65) - (27,5) unexpected token '<dedent>'
+(238,35) - (238,73) invalid syntax
+(239,35) - (239,78) invalid syntax
+(240,35) - (240,41) invalid syntax
+(240,41) - (240,42) unexpected token ')'
+(241,74) - (241,74) unexpected token '<newline>'
+(242,29) - (242,29) unexpected token '<NL>'
+(242,29) - (243,9) unexpected token '<NL>'
+(242,29) - (243,9) unexpected token '<dedent>'
+(289,1) - (289,1) unexpected end of file
+(289,1) - (289,1) unexpected end of file
+2017-09-10T13:13:11: Parsing "importlib._bootstrap" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\_bootstrap.py")
+2017-09-10T13:13:11: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\_bootstrap.py" contained parse errors
+2017-09-10T13:13:11: (1032,28) - (1032,29) unexpected token 'f'
+(1032,28) - (1032,29) unexpected token 'f'
+(1032,29) - (1033,53) can't assign to literal
+(1033,55) - (1033,56) unexpected token ')'
+(1033,56) - (1034,9) unexpected token '<newline>'
+(1033,56) - (1034,9) unexpected token '<dedent>'
+(1147,1) - (1147,1) unexpected end of file
+2017-09-10T13:13:11: Parsing "importlib._bootstrap_external" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\_bootstrap_external.py")
+2017-09-10T13:13:11: Parsing "importlib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\importlib\__init__.py")
+2017-09-10T13:13:11: Parsing complete
+2017-09-10T13:13:11: Analyzing "abc"
+2017-09-10T13:13:11: Analyzing "base64"
+2017-09-10T13:13:11: Analyzing "bisect"
+2017-09-10T13:13:11: Analyzing "codecs"
+2017-09-10T13:13:11: Analyzing "copy"
+2017-09-10T13:13:11: Analyzing "copyreg"
+2017-09-10T13:13:11: Analyzing "enum"
+2017-09-10T13:13:11: Analyzing "fnmatch"
+2017-09-10T13:13:11: Analyzing "functools"
+2017-09-10T13:13:11: Analyzing "genericpath"
+2017-09-10T13:13:11: Analyzing "hashlib"
+2017-09-10T13:13:11: Analyzing "heapq"
+2017-09-10T13:13:11: Analyzing "hmac"
+2017-09-10T13:13:11: Analyzing "imp"
+2017-09-10T13:13:11: Analyzing "io"
+2017-09-10T13:13:11: Analyzing "keyword"
+2017-09-10T13:13:11: Analyzing "linecache"
+2017-09-10T13:13:11: Analyzing "locale"
+2017-09-10T13:13:11: Analyzing "ntpath"
+2017-09-10T13:13:11: Analyzing "operator"
+2017-09-10T13:13:11: Analyzing "os"
+2017-09-10T13:13:11: Analyzing "posixpath"
+2017-09-10T13:13:11: Analyzing "random"
+2017-09-10T13:13:11: Analyzing "re"
+2017-09-10T13:13:11: Analyzing "reprlib"
+2017-09-10T13:13:11: Analyzing "rlcompleter"
+2017-09-10T13:13:11: Analyzing "shutil"
+2017-09-10T13:13:11: Analyzing "site"
+2017-09-10T13:13:11: Analyzing "sre_compile"
+2017-09-10T13:13:11: Analyzing "sre_constants"
+2017-09-10T13:13:11: Analyzing "sre_parse"
+2017-09-10T13:13:11: Analyzing "stat"
+2017-09-10T13:13:11: Analyzing "struct"
+2017-09-10T13:13:11: Analyzing "tarfile"
+2017-09-10T13:13:11: Analyzing "tempfile"
+2017-09-10T13:13:11: Analyzing "token"
+2017-09-10T13:13:11: Analyzing "tokenize"
+2017-09-10T13:13:11: Analyzing "types"
+2017-09-10T13:13:11: Analyzing "warnings"
+2017-09-10T13:13:11: Analyzing "weakref"
+2017-09-10T13:13:11: Analyzing "_bootlocale"
+2017-09-10T13:13:11: Analyzing "_collections_abc"
+2017-09-10T13:13:11: Analyzing "_dummy_thread"
+2017-09-10T13:13:11: Analyzing "_weakrefset"
+2017-09-10T13:13:11: Analyzing "__future__"
+2017-09-10T13:13:11: Analyzing "collections.abc"
+2017-09-10T13:13:11: Analyzing "collections"
+2017-09-10T13:13:11: Analyzing "distutils"
+2017-09-10T13:13:11: Analyzing "encodings.aliases"
+2017-09-10T13:13:11: Analyzing "encodings.ascii"
+2017-09-10T13:13:11: Analyzing "encodings.base64_codec"
+2017-09-10T13:13:11: Analyzing "encodings.big5"
+2017-09-10T13:13:11: Analyzing "encodings.big5hkscs"
+2017-09-10T13:13:11: Analyzing "encodings.bz2_codec"
+2017-09-10T13:13:11: Analyzing "encodings.charmap"
+2017-09-10T13:13:11: Analyzing "encodings.cp037"
+2017-09-10T13:13:11: Analyzing "encodings.cp1006"
+2017-09-10T13:13:11: Analyzing "encodings.cp1026"
+2017-09-10T13:13:11: Analyzing "encodings.cp1125"
+2017-09-10T13:13:11: Analyzing "encodings.cp1140"
+2017-09-10T13:13:11: Analyzing "encodings.cp1250"
+2017-09-10T13:13:11: Analyzing "encodings.cp1251"
+2017-09-10T13:13:11: Analyzing "encodings.cp1252"
+2017-09-10T13:13:11: Analyzing "encodings.cp1253"
+2017-09-10T13:13:11: Analyzing "encodings.cp1254"
+2017-09-10T13:13:11: Analyzing "encodings.cp1255"
+2017-09-10T13:13:11: Analyzing "encodings.cp1256"
+2017-09-10T13:13:11: Analyzing "encodings.cp1257"
+2017-09-10T13:13:11: Analyzing "encodings.cp1258"
+2017-09-10T13:13:11: Analyzing "encodings.cp273"
+2017-09-10T13:13:11: Analyzing "encodings.cp424"
+2017-09-10T13:13:11: Analyzing "encodings.cp437"
+2017-09-10T13:13:11: Analyzing "encodings.cp500"
+2017-09-10T13:13:11: Analyzing "encodings.cp65001"
+2017-09-10T13:13:11: Analyzing "encodings.cp720"
+2017-09-10T13:13:11: Analyzing "encodings.cp737"
+2017-09-10T13:13:11: Analyzing "encodings.cp775"
+2017-09-10T13:13:11: Analyzing "encodings.cp850"
+2017-09-10T13:13:11: Analyzing "encodings.cp852"
+2017-09-10T13:13:11: Analyzing "encodings.cp855"
+2017-09-10T13:13:11: Analyzing "encodings.cp856"
+2017-09-10T13:13:11: Analyzing "encodings.cp857"
+2017-09-10T13:13:11: Analyzing "encodings.cp858"
+2017-09-10T13:13:11: Analyzing "encodings.cp860"
+2017-09-10T13:13:11: Analyzing "encodings.cp861"
+2017-09-10T13:13:11: Analyzing "encodings.cp862"
+2017-09-10T13:13:11: Analyzing "encodings.cp863"
+2017-09-10T13:13:11: Analyzing "encodings.cp864"
+2017-09-10T13:13:11: Analyzing "encodings.cp865"
+2017-09-10T13:13:11: Analyzing "encodings.cp866"
+2017-09-10T13:13:11: Analyzing "encodings.cp869"
+2017-09-10T13:13:11: Analyzing "encodings.cp874"
+2017-09-10T13:13:11: Analyzing "encodings.cp875"
+2017-09-10T13:13:11: Analyzing "encodings.cp932"
+2017-09-10T13:13:11: Analyzing "encodings.cp949"
+2017-09-10T13:13:11: Analyzing "encodings.cp950"
+2017-09-10T13:13:11: Analyzing "encodings.euc_jisx0213"
+2017-09-10T13:13:11: Analyzing "encodings.euc_jis_2004"
+2017-09-10T13:13:11: Analyzing "encodings.euc_jp"
+2017-09-10T13:13:11: Analyzing "encodings.euc_kr"
+2017-09-10T13:13:11: Analyzing "encodings.gb18030"
+2017-09-10T13:13:11: Analyzing "encodings.gb2312"
+2017-09-10T13:13:11: Analyzing "encodings.gbk"
+2017-09-10T13:13:11: Analyzing "encodings.hex_codec"
+2017-09-10T13:13:11: Analyzing "encodings.hp_roman8"
+2017-09-10T13:13:11: Analyzing "encodings.hz"
+2017-09-10T13:13:11: Analyzing "encodings.idna"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp_1"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp_2"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp_2004"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp_3"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_jp_ext"
+2017-09-10T13:13:11: Analyzing "encodings.iso2022_kr"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_1"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_10"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_11"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_13"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_14"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_15"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_16"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_2"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_3"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_4"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_5"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_6"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_7"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_8"
+2017-09-10T13:13:11: Analyzing "encodings.iso8859_9"
+2017-09-10T13:13:11: Analyzing "encodings.johab"
+2017-09-10T13:13:11: Analyzing "encodings.koi8_r"
+2017-09-10T13:13:11: Analyzing "encodings.koi8_t"
+2017-09-10T13:13:11: Analyzing "encodings.koi8_u"
+2017-09-10T13:13:11: Analyzing "encodings.kz1048"
+2017-09-10T13:13:11: Analyzing "encodings.latin_1"
+2017-09-10T13:13:11: Analyzing "encodings.mac_arabic"
+2017-09-10T13:13:11: Analyzing "encodings.mac_centeuro"
+2017-09-10T13:13:11: Analyzing "encodings.mac_croatian"
+2017-09-10T13:13:11: Analyzing "encodings.mac_cyrillic"
+2017-09-10T13:13:11: Analyzing "encodings.mac_farsi"
+2017-09-10T13:13:11: Analyzing "encodings.mac_greek"
+2017-09-10T13:13:11: Analyzing "encodings.mac_iceland"
+2017-09-10T13:13:11: Analyzing "encodings.mac_latin2"
+2017-09-10T13:13:11: Analyzing "encodings.mac_roman"
+2017-09-10T13:13:11: Analyzing "encodings.mac_romanian"
+2017-09-10T13:13:11: Analyzing "encodings.mac_turkish"
+2017-09-10T13:13:11: Analyzing "encodings.mbcs"
+2017-09-10T13:13:11: Analyzing "encodings.oem"
+2017-09-10T13:13:11: Analyzing "encodings.palmos"
+2017-09-10T13:13:11: Analyzing "encodings.ptcp154"
+2017-09-10T13:13:11: Analyzing "encodings.punycode"
+2017-09-10T13:13:11: Analyzing "encodings.quopri_codec"
+2017-09-10T13:13:11: Analyzing "encodings.raw_unicode_escape"
+2017-09-10T13:13:11: Analyzing "encodings.rot_13"
+2017-09-10T13:13:11: Analyzing "encodings.shift_jis"
+2017-09-10T13:13:11: Analyzing "encodings.shift_jisx0213"
+2017-09-10T13:13:11: Analyzing "encodings.shift_jis_2004"
+2017-09-10T13:13:11: Analyzing "encodings.tis_620"
+2017-09-10T13:13:11: Analyzing "encodings.undefined"
+2017-09-10T13:13:11: Analyzing "encodings.unicode_escape"
+2017-09-10T13:13:11: Analyzing "encodings.unicode_internal"
+2017-09-10T13:13:11: Analyzing "encodings.utf_16"
+2017-09-10T13:13:11: Analyzing "encodings.utf_16_be"
+2017-09-10T13:13:11: Analyzing "encodings.utf_16_le"
+2017-09-10T13:13:11: Analyzing "encodings.utf_32"
+2017-09-10T13:13:11: Analyzing "encodings.utf_32_be"
+2017-09-10T13:13:11: Analyzing "encodings.utf_32_le"
+2017-09-10T13:13:11: Analyzing "encodings.utf_7"
+2017-09-10T13:13:11: Analyzing "encodings.utf_8"
+2017-09-10T13:13:11: Analyzing "encodings.utf_8_sig"
+2017-09-10T13:13:11: Analyzing "encodings.uu_codec"
+2017-09-10T13:13:11: Analyzing "encodings.zlib_codec"
+2017-09-10T13:13:11: Analyzing "encodings"
+2017-09-10T13:13:11: Analyzing "importlib.abc"
+2017-09-10T13:13:11: Analyzing "importlib.machinery"
+2017-09-10T13:13:11: Analyzing "importlib.util"
+2017-09-10T13:13:11: Analyzing "importlib._bootstrap"
+2017-09-10T13:13:11: Analyzing "importlib._bootstrap_external"
+2017-09-10T13:13:11: Analyzing "importlib"
+2017-09-10T13:13:11: Starting analysis of 179 modules
+2017-09-10T13:13:15: Analysis complete
+2017-09-10T13:13:15: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib"
+2017-09-10T13:13:15: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib"
+2017-09-10T13:13:15: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages" with 2 files
+2017-09-10T13:13:15: Parsing "easy_install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\easy_install.py")
+2017-09-10T13:13:15: Parsing "itsdangerous" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\itsdangerous.py")
+2017-09-10T13:13:15: Parsing complete
+2017-09-10T13:13:15: Analyzing "easy_install"
+2017-09-10T13:13:15: Analyzing "itsdangerous"
+2017-09-10T13:13:15: Starting analysis of 2 modules
+2017-09-10T13:13:17: Analysis complete
+2017-09-10T13:13:17: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages"
+2017-09-10T13:13:17: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages"
+2017-09-10T13:13:17: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click" with 17 files
+2017-09-10T13:13:17: Parsing "click.core" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\core.py")
+2017-09-10T13:13:17: Parsing "click.decorators" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\decorators.py")
+2017-09-10T13:13:17: Parsing "click.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\exceptions.py")
+2017-09-10T13:13:17: Parsing "click.formatting" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\formatting.py")
+2017-09-10T13:13:17: Parsing "click.globals" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\globals.py")
+2017-09-10T13:13:17: Parsing "click.parser" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\parser.py")
+2017-09-10T13:13:17: Parsing "click.termui" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\termui.py")
+2017-09-10T13:13:17: Parsing "click.testing" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\testing.py")
+2017-09-10T13:13:17: Parsing "click.types" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\types.py")
+2017-09-10T13:13:17: Parsing "click.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\utils.py")
+2017-09-10T13:13:17: Parsing "click._bashcomplete" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_bashcomplete.py")
+2017-09-10T13:13:17: Parsing "click._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_compat.py")
+2017-09-10T13:13:17: Parsing "click._termui_impl" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_termui_impl.py")
+2017-09-10T13:13:17: Parsing "click._textwrap" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_textwrap.py")
+2017-09-10T13:13:17: Parsing "click._unicodefun" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_unicodefun.py")
+2017-09-10T13:13:17: Parsing "click._winconsole" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\_winconsole.py")
+2017-09-10T13:13:17: Parsing "click" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click\__init__.py")
+2017-09-10T13:13:17: Parsing complete
+2017-09-10T13:13:17: Analyzing "click.core"
+2017-09-10T13:13:17: Analyzing "click.decorators"
+2017-09-10T13:13:17: Analyzing "click.exceptions"
+2017-09-10T13:13:17: Analyzing "click.formatting"
+2017-09-10T13:13:17: Analyzing "click.globals"
+2017-09-10T13:13:17: Analyzing "click.parser"
+2017-09-10T13:13:17: Analyzing "click.termui"
+2017-09-10T13:13:17: Analyzing "click.testing"
+2017-09-10T13:13:17: Analyzing "click.types"
+2017-09-10T13:13:17: Analyzing "click.utils"
+2017-09-10T13:13:17: Analyzing "click._bashcomplete"
+2017-09-10T13:13:17: Analyzing "click._compat"
+2017-09-10T13:13:17: Analyzing "click._termui_impl"
+2017-09-10T13:13:17: Analyzing "click._textwrap"
+2017-09-10T13:13:17: Analyzing "click._unicodefun"
+2017-09-10T13:13:17: Analyzing "click._winconsole"
+2017-09-10T13:13:17: Analyzing "click"
+2017-09-10T13:13:17: Starting analysis of 17 modules
+2017-09-10T13:13:20: Analysis complete
+2017-09-10T13:13:20: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click"
+2017-09-10T13:13:20: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\click"
+2017-09-10T13:13:20: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask" with 21 files
+2017-09-10T13:13:20: Parsing "flask.app" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\app.py")
+2017-09-10T13:13:20: Parsing "flask.blueprints" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\blueprints.py")
+2017-09-10T13:13:20: Parsing "flask.cli" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\cli.py")
+2017-09-10T13:13:20: Parsing "flask.config" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\config.py")
+2017-09-10T13:13:20: Parsing "flask.ctx" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\ctx.py")
+2017-09-10T13:13:20: Parsing "flask.debughelpers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\debughelpers.py")
+2017-09-10T13:13:20: Parsing "flask.exthook" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\exthook.py")
+2017-09-10T13:13:20: Parsing "flask.globals" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\globals.py")
+2017-09-10T13:13:20: Parsing "flask.helpers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\helpers.py")
+2017-09-10T13:13:20: Parsing "flask.json" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\json.py")
+2017-09-10T13:13:20: Parsing "flask.logging" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\logging.py")
+2017-09-10T13:13:20: Parsing "flask.sessions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\sessions.py")
+2017-09-10T13:13:20: Parsing "flask.signals" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\signals.py")
+2017-09-10T13:13:20: Parsing "flask.templating" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\templating.py")
+2017-09-10T13:13:20: Parsing "flask.testing" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\testing.py")
+2017-09-10T13:13:20: Parsing "flask.views" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\views.py")
+2017-09-10T13:13:20: Parsing "flask.wrappers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\wrappers.py")
+2017-09-10T13:13:20: Parsing "flask._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\_compat.py")
+2017-09-10T13:13:20: Parsing "flask" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\__init__.py")
+2017-09-10T13:13:20: Parsing "flask.__main__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\__main__.py")
+2017-09-10T13:13:20: Parsing "flask.ext" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask\ext\__init__.py")
+2017-09-10T13:13:20: Parsing complete
+2017-09-10T13:13:20: Analyzing "flask.app"
+2017-09-10T13:13:20: Analyzing "flask.blueprints"
+2017-09-10T13:13:20: Analyzing "flask.cli"
+2017-09-10T13:13:20: Analyzing "flask.config"
+2017-09-10T13:13:20: Analyzing "flask.ctx"
+2017-09-10T13:13:20: Analyzing "flask.debughelpers"
+2017-09-10T13:13:20: Analyzing "flask.exthook"
+2017-09-10T13:13:20: Analyzing "flask.globals"
+2017-09-10T13:13:20: Analyzing "flask.helpers"
+2017-09-10T13:13:20: Analyzing "flask.json"
+2017-09-10T13:13:20: Analyzing "flask.logging"
+2017-09-10T13:13:20: Analyzing "flask.sessions"
+2017-09-10T13:13:20: Analyzing "flask.signals"
+2017-09-10T13:13:20: Analyzing "flask.templating"
+2017-09-10T13:13:20: Analyzing "flask.testing"
+2017-09-10T13:13:20: Analyzing "flask.views"
+2017-09-10T13:13:20: Analyzing "flask.wrappers"
+2017-09-10T13:13:20: Analyzing "flask._compat"
+2017-09-10T13:13:20: Analyzing "flask"
+2017-09-10T13:13:20: Analyzing "flask.__main__"
+2017-09-10T13:13:20: Analyzing "flask.ext"
+2017-09-10T13:13:20: Starting analysis of 21 modules
+2017-09-10T13:13:22: Analysis complete
+2017-09-10T13:13:22: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask"
+2017-09-10T13:13:22: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\flask"
+2017-09-10T13:13:22: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2" with 26 files
+2017-09-10T13:13:22: Parsing "jinja2.asyncfilters" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\asyncfilters.py")
+2017-09-10T13:13:22: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\asyncfilters.py" contained parse errors
+2017-09-10T13:13:22: (24,17) - (24,22) 'yield' inside async function
+(112,13) - (112,18) 'yield' inside async function
+2017-09-10T13:13:22: Parsing "jinja2.asyncsupport" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\asyncsupport.py")
+2017-09-10T13:13:22: [WARNING] File "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\asyncsupport.py" contained parse errors
+2017-09-10T13:13:22: (35,13) - (35,18) 'yield' inside async function
+(40,5) - (40,10) 'yield' inside async function
+(184,13) - (184,18) 'yield' inside async function
+(187,9) - (187,14) 'yield' inside async function
+2017-09-10T13:13:22: Parsing "jinja2.bccache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\bccache.py")
+2017-09-10T13:13:22: Parsing "jinja2.compiler" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\compiler.py")
+2017-09-10T13:13:22: Parsing "jinja2.constants" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\constants.py")
+2017-09-10T13:13:22: Parsing "jinja2.debug" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\debug.py")
+2017-09-10T13:13:22: Parsing "jinja2.defaults" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\defaults.py")
+2017-09-10T13:13:22: Parsing "jinja2.environment" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\environment.py")
+2017-09-10T13:13:22: Parsing "jinja2.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\exceptions.py")
+2017-09-10T13:13:22: Parsing "jinja2.ext" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\ext.py")
+2017-09-10T13:13:22: Parsing "jinja2.filters" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\filters.py")
+2017-09-10T13:13:22: Parsing "jinja2.idtracking" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\idtracking.py")
+2017-09-10T13:13:22: Parsing "jinja2.lexer" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\lexer.py")
+2017-09-10T13:13:22: Parsing "jinja2.loaders" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\loaders.py")
+2017-09-10T13:13:22: Parsing "jinja2.meta" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\meta.py")
+2017-09-10T13:13:22: Parsing "jinja2.nodes" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\nodes.py")
+2017-09-10T13:13:22: Parsing "jinja2.optimizer" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\optimizer.py")
+2017-09-10T13:13:22: Parsing "jinja2.parser" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\parser.py")
+2017-09-10T13:13:22: Parsing "jinja2.runtime" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\runtime.py")
+2017-09-10T13:13:22: Parsing "jinja2.sandbox" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\sandbox.py")
+2017-09-10T13:13:22: Parsing "jinja2.tests" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\tests.py")
+2017-09-10T13:13:22: Parsing "jinja2.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\utils.py")
+2017-09-10T13:13:22: Parsing "jinja2.visitor" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\visitor.py")
+2017-09-10T13:13:22: Parsing "jinja2._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\_compat.py")
+2017-09-10T13:13:22: Parsing "jinja2._stringdefs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\_stringdefs.py")
+2017-09-10T13:13:22: Parsing "jinja2" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2\__init__.py")
+2017-09-10T13:13:22: Parsing complete
+2017-09-10T13:13:22: Analyzing "jinja2.asyncfilters"
+2017-09-10T13:13:22: Analyzing "jinja2.asyncsupport"
+2017-09-10T13:13:22: Analyzing "jinja2.bccache"
+2017-09-10T13:13:22: Analyzing "jinja2.compiler"
+2017-09-10T13:13:22: Analyzing "jinja2.constants"
+2017-09-10T13:13:22: Analyzing "jinja2.debug"
+2017-09-10T13:13:22: Analyzing "jinja2.defaults"
+2017-09-10T13:13:22: Analyzing "jinja2.environment"
+2017-09-10T13:13:22: Analyzing "jinja2.exceptions"
+2017-09-10T13:13:22: Analyzing "jinja2.ext"
+2017-09-10T13:13:22: Analyzing "jinja2.filters"
+2017-09-10T13:13:22: Analyzing "jinja2.idtracking"
+2017-09-10T13:13:22: Analyzing "jinja2.lexer"
+2017-09-10T13:13:22: Analyzing "jinja2.loaders"
+2017-09-10T13:13:22: Analyzing "jinja2.meta"
+2017-09-10T13:13:22: Analyzing "jinja2.nodes"
+2017-09-10T13:13:22: Analyzing "jinja2.optimizer"
+2017-09-10T13:13:22: Analyzing "jinja2.parser"
+2017-09-10T13:13:22: Analyzing "jinja2.runtime"
+2017-09-10T13:13:22: Analyzing "jinja2.sandbox"
+2017-09-10T13:13:22: Analyzing "jinja2.tests"
+2017-09-10T13:13:22: Analyzing "jinja2.utils"
+2017-09-10T13:13:22: Analyzing "jinja2.visitor"
+2017-09-10T13:13:22: Analyzing "jinja2._compat"
+2017-09-10T13:13:22: Analyzing "jinja2._stringdefs"
+2017-09-10T13:13:22: Analyzing "jinja2"
+2017-09-10T13:13:22: Starting analysis of 26 modules
+2017-09-10T13:13:25: Analysis complete
+2017-09-10T13:13:25: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2"
+2017-09-10T13:13:25: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\jinja2"
+2017-09-10T13:13:25: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe" with 4 files
+2017-09-10T13:13:25: Parsing "markupsafe._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe\_compat.py")
+2017-09-10T13:13:25: Parsing "markupsafe._constants" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe\_constants.py")
+2017-09-10T13:13:25: Parsing "markupsafe._native" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe\_native.py")
+2017-09-10T13:13:25: Parsing "markupsafe" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe\__init__.py")
+2017-09-10T13:13:25: Parsing complete
+2017-09-10T13:13:25: Analyzing "markupsafe._compat"
+2017-09-10T13:13:25: Analyzing "markupsafe._constants"
+2017-09-10T13:13:25: Analyzing "markupsafe._native"
+2017-09-10T13:13:25: Analyzing "markupsafe"
+2017-09-10T13:13:25: Starting analysis of 4 modules
+2017-09-10T13:13:27: Analysis complete
+2017-09-10T13:13:27: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe"
+2017-09-10T13:13:27: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\markupsafe"
+2017-09-10T13:13:27: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip" with 241 files
+2017-09-10T13:13:27: Parsing "pip.basecommand" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\basecommand.py")
+2017-09-10T13:13:27: Parsing "pip.baseparser" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\baseparser.py")
+2017-09-10T13:13:27: Parsing "pip.cmdoptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\cmdoptions.py")
+2017-09-10T13:13:27: Parsing "pip.download" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\download.py")
+2017-09-10T13:13:27: Parsing "pip.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\exceptions.py")
+2017-09-10T13:13:27: Parsing "pip.index" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\index.py")
+2017-09-10T13:13:27: Parsing "pip.locations" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\locations.py")
+2017-09-10T13:13:27: Parsing "pip.pep425tags" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\pep425tags.py")
+2017-09-10T13:13:27: Parsing "pip.status_codes" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\status_codes.py")
+2017-09-10T13:13:27: Parsing "pip.wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\wheel.py")
+2017-09-10T13:13:27: Parsing "pip" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.__main__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\__main__.py")
+2017-09-10T13:13:27: Parsing "pip.commands.check" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\check.py")
+2017-09-10T13:13:27: Parsing "pip.commands.completion" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\completion.py")
+2017-09-10T13:13:27: Parsing "pip.commands.download" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\download.py")
+2017-09-10T13:13:27: Parsing "pip.commands.freeze" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\freeze.py")
+2017-09-10T13:13:27: Parsing "pip.commands.hash" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\hash.py")
+2017-09-10T13:13:27: Parsing "pip.commands.help" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\help.py")
+2017-09-10T13:13:27: Parsing "pip.commands.install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\install.py")
+2017-09-10T13:13:27: Parsing "pip.commands.list" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\list.py")
+2017-09-10T13:13:27: Parsing "pip.commands.search" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\search.py")
+2017-09-10T13:13:27: Parsing "pip.commands.show" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\show.py")
+2017-09-10T13:13:27: Parsing "pip.commands.uninstall" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\uninstall.py")
+2017-09-10T13:13:27: Parsing "pip.commands.wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\wheel.py")
+2017-09-10T13:13:27: Parsing "pip.commands" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\commands\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.compat.dictconfig" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\compat\dictconfig.py")
+2017-09-10T13:13:27: Parsing "pip.compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\compat\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.models.index" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\models\index.py")
+2017-09-10T13:13:27: Parsing "pip.models" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\models\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.operations.check" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\operations\check.py")
+2017-09-10T13:13:27: Parsing "pip.operations.freeze" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\operations\freeze.py")
+2017-09-10T13:13:27: Parsing "pip.operations" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\operations\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.req.req_file" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\req\req_file.py")
+2017-09-10T13:13:27: Parsing "pip.req.req_install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\req\req_install.py")
+2017-09-10T13:13:27: Parsing "pip.req.req_set" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\req\req_set.py")
+2017-09-10T13:13:27: Parsing "pip.req.req_uninstall" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\req\req_uninstall.py")
+2017-09-10T13:13:27: Parsing "pip.req" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\req\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.utils.appdirs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\appdirs.py")
+2017-09-10T13:13:27: Parsing "pip.utils.build" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\build.py")
+2017-09-10T13:13:27: Parsing "pip.utils.deprecation" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\deprecation.py")
+2017-09-10T13:13:27: Parsing "pip.utils.encoding" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\encoding.py")
+2017-09-10T13:13:27: Parsing "pip.utils.filesystem" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\filesystem.py")
+2017-09-10T13:13:27: Parsing "pip.utils.glibc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\glibc.py")
+2017-09-10T13:13:27: Parsing "pip.utils.hashes" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\hashes.py")
+2017-09-10T13:13:27: Parsing "pip.utils.logging" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\logging.py")
+2017-09-10T13:13:27: Parsing "pip.utils.outdated" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\outdated.py")
+2017-09-10T13:13:27: Parsing "pip.utils.packaging" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\packaging.py")
+2017-09-10T13:13:27: Parsing "pip.utils.setuptools_build" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-09-10T13:13:27: Parsing "pip.utils.ui" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\ui.py")
+2017-09-10T13:13:27: Parsing "pip.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\utils\__init__.py")
+2017-09-10T13:13:27: Parsing "pip.vcs.bazaar" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\vcs\bazaar.py")
+2017-09-10T13:13:27: Parsing "pip.vcs.git" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\vcs\git.py")
+2017-09-10T13:13:27: Parsing "pip.vcs.mercurial" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\vcs\mercurial.py")
+2017-09-10T13:13:27: Parsing "pip.vcs.subversion" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\vcs\subversion.py")
+2017-09-10T13:13:27: Parsing "pip.vcs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\vcs\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.appdirs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distro" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distro.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.ipaddress" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.ordereddict" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.pyparsing" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.retrying" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\retrying.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.six" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\six.py")
+2017-09-10T13:13:27: Parsing "pip._vendor" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.adapter" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.cache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.controller" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.filewrapper" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.heuristics" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.serialize" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.wrapper" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol._cmd" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.cachecontrol.caches" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama.ansi" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama.initialise" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama.win32" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama.winterm" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.colorama" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.database" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.index" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.locators" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.manifest" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.markers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.metadata" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.resources" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.scripts" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.version" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib.wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.distlib._backport" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.constants" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._ihatexml" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._inputstream" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._tokenizer" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.base" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.filters" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treebuilders.base" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers.base" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._trie.datrie" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._trie.py" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._trie._base" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.html5lib._trie" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile.linklockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile.mkdirlockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile.pidlockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile.sqlitelockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile.symlinklockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.lockfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.markers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.requirements" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.specifiers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.version" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging._structures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging.__about__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.packaging" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.pkg_resources" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.progress.bar" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.progress.counter" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.progress.helpers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.progress.spinner" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.progress" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.adapters" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.api" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.auth" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.certs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.cookies" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.hooks" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.models" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.sessions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.status_codes" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.structures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.webencodings.labels" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.webencodings.mklabels" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.webencodings.tests" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.webencodings.x_user_defined" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-09-10T13:13:27: Parsing "pip._vendor.webencodings" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-09-10T13:13:27: Parsing complete
+2017-09-10T13:13:27: Analyzing "pip.basecommand"
+2017-09-10T13:13:27: Analyzing "pip.baseparser"
+2017-09-10T13:13:27: Analyzing "pip.cmdoptions"
+2017-09-10T13:13:27: Analyzing "pip.download"
+2017-09-10T13:13:27: Analyzing "pip.exceptions"
+2017-09-10T13:13:27: Analyzing "pip.index"
+2017-09-10T13:13:27: Analyzing "pip.locations"
+2017-09-10T13:13:27: Analyzing "pip.pep425tags"
+2017-09-10T13:13:27: Analyzing "pip.status_codes"
+2017-09-10T13:13:27: Analyzing "pip.wheel"
+2017-09-10T13:13:27: Analyzing "pip"
+2017-09-10T13:13:27: Analyzing "pip.__main__"
+2017-09-10T13:13:27: Analyzing "pip.commands.check"
+2017-09-10T13:13:27: Analyzing "pip.commands.completion"
+2017-09-10T13:13:27: Analyzing "pip.commands.download"
+2017-09-10T13:13:27: Analyzing "pip.commands.freeze"
+2017-09-10T13:13:27: Analyzing "pip.commands.hash"
+2017-09-10T13:13:27: Analyzing "pip.commands.help"
+2017-09-10T13:13:27: Analyzing "pip.commands.install"
+2017-09-10T13:13:27: Analyzing "pip.commands.list"
+2017-09-10T13:13:27: Analyzing "pip.commands.search"
+2017-09-10T13:13:27: Analyzing "pip.commands.show"
+2017-09-10T13:13:27: Analyzing "pip.commands.uninstall"
+2017-09-10T13:13:27: Analyzing "pip.commands.wheel"
+2017-09-10T13:13:27: Analyzing "pip.commands"
+2017-09-10T13:13:27: Analyzing "pip.compat.dictconfig"
+2017-09-10T13:13:27: Analyzing "pip.compat"
+2017-09-10T13:13:27: Analyzing "pip.models.index"
+2017-09-10T13:13:27: Analyzing "pip.models"
+2017-09-10T13:13:27: Analyzing "pip.operations.check"
+2017-09-10T13:13:27: Analyzing "pip.operations.freeze"
+2017-09-10T13:13:27: Analyzing "pip.operations"
+2017-09-10T13:13:27: Analyzing "pip.req.req_file"
+2017-09-10T13:13:27: Analyzing "pip.req.req_install"
+2017-09-10T13:13:27: Analyzing "pip.req.req_set"
+2017-09-10T13:13:27: Analyzing "pip.req.req_uninstall"
+2017-09-10T13:13:27: Analyzing "pip.req"
+2017-09-10T13:13:27: Analyzing "pip.utils.appdirs"
+2017-09-10T13:13:27: Analyzing "pip.utils.build"
+2017-09-10T13:13:27: Analyzing "pip.utils.deprecation"
+2017-09-10T13:13:27: Analyzing "pip.utils.encoding"
+2017-09-10T13:13:27: Analyzing "pip.utils.filesystem"
+2017-09-10T13:13:27: Analyzing "pip.utils.glibc"
+2017-09-10T13:13:27: Analyzing "pip.utils.hashes"
+2017-09-10T13:13:27: Analyzing "pip.utils.logging"
+2017-09-10T13:13:27: Analyzing "pip.utils.outdated"
+2017-09-10T13:13:27: Analyzing "pip.utils.packaging"
+2017-09-10T13:13:27: Analyzing "pip.utils.setuptools_build"
+2017-09-10T13:13:27: Analyzing "pip.utils.ui"
+2017-09-10T13:13:27: Analyzing "pip.utils"
+2017-09-10T13:13:27: Analyzing "pip.vcs.bazaar"
+2017-09-10T13:13:27: Analyzing "pip.vcs.git"
+2017-09-10T13:13:27: Analyzing "pip.vcs.mercurial"
+2017-09-10T13:13:27: Analyzing "pip.vcs.subversion"
+2017-09-10T13:13:27: Analyzing "pip.vcs"
+2017-09-10T13:13:27: Analyzing "pip._vendor.appdirs"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distro"
+2017-09-10T13:13:27: Analyzing "pip._vendor.ipaddress"
+2017-09-10T13:13:27: Analyzing "pip._vendor.ordereddict"
+2017-09-10T13:13:27: Analyzing "pip._vendor.pyparsing"
+2017-09-10T13:13:27: Analyzing "pip._vendor.retrying"
+2017-09-10T13:13:27: Analyzing "pip._vendor.six"
+2017-09-10T13:13:27: Analyzing "pip._vendor"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.cache"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.compat"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.controller"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-09-10T13:13:27: Analyzing "pip._vendor.cachecontrol.caches"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama.ansi"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama.initialise"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama.win32"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama.winterm"
+2017-09-10T13:13:27: Analyzing "pip._vendor.colorama"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.compat"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.database"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.index"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.locators"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.manifest"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.markers"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.metadata"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.resources"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.scripts"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.util"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.version"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib.wheel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib._backport.misc"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.distlib._backport"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.constants"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.html5parser"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.serializer"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._inputstream"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._utils"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.base"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.filters"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._trie.py"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._trie._base"
+2017-09-10T13:13:27: Analyzing "pip._vendor.html5lib._trie"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.lockfile"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.markers"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.requirements"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.specifiers"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.utils"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.version"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging._compat"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging._structures"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging.__about__"
+2017-09-10T13:13:27: Analyzing "pip._vendor.packaging"
+2017-09-10T13:13:27: Analyzing "pip._vendor.pkg_resources"
+2017-09-10T13:13:27: Analyzing "pip._vendor.progress.bar"
+2017-09-10T13:13:27: Analyzing "pip._vendor.progress.counter"
+2017-09-10T13:13:27: Analyzing "pip._vendor.progress.helpers"
+2017-09-10T13:13:27: Analyzing "pip._vendor.progress.spinner"
+2017-09-10T13:13:27: Analyzing "pip._vendor.progress"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.adapters"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.api"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.auth"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.certs"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.compat"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.cookies"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.exceptions"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.hooks"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.models"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.sessions"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.status_codes"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.structures"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.utils"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.chardet"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-09-10T13:13:27: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-09-10T13:13:27: Analyzing "pip._vendor.webencodings.labels"
+2017-09-10T13:13:27: Analyzing "pip._vendor.webencodings.mklabels"
+2017-09-10T13:13:27: Analyzing "pip._vendor.webencodings.tests"
+2017-09-10T13:13:27: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-09-10T13:13:27: Analyzing "pip._vendor.webencodings"
+2017-09-10T13:13:27: Starting analysis of 241 modules
+2017-09-10T13:13:35: Analysis complete
+2017-09-10T13:13:35: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip"
+2017-09-10T13:13:36: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pip"
+2017-09-10T13:13:36: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources" with 16 files
+2017-09-10T13:13:36: Parsing "pkg_resources.py31compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\py31compat.py")
+2017-09-10T13:13:36: Parsing "pkg_resources" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\__init__.py")
+2017-09-10T13:13:36: Parsing "pkg_resources.extern" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.appdirs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.pyparsing" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.six" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.markers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.requirements" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.specifiers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.version" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging._structures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging.__about__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-09-10T13:13:36: Parsing "pkg_resources._vendor.packaging" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-09-10T13:13:36: Parsing complete
+2017-09-10T13:13:36: Analyzing "pkg_resources.py31compat"
+2017-09-10T13:13:36: Analyzing "pkg_resources"
+2017-09-10T13:13:36: Analyzing "pkg_resources.extern"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.appdirs"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.pyparsing"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.six"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.version"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-09-10T13:13:36: Analyzing "pkg_resources._vendor.packaging"
+2017-09-10T13:13:36: Starting analysis of 16 modules
+2017-09-10T13:13:40: Analysis complete
+2017-09-10T13:13:40: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources"
+2017-09-10T13:13:40: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\pkg_resources"
+2017-09-10T13:13:40: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools" with 49 files
+2017-09-10T13:13:40: Parsing "setuptools.archive_util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\archive_util.py")
+2017-09-10T13:13:40: Parsing "setuptools.config" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\config.py")
+2017-09-10T13:13:40: Parsing "setuptools.depends" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\depends.py")
+2017-09-10T13:13:40: Parsing "setuptools.dep_util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\dep_util.py")
+2017-09-10T13:13:40: Parsing "setuptools.dist" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\dist.py")
+2017-09-10T13:13:40: Parsing "setuptools.extension" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\extension.py")
+2017-09-10T13:13:40: Parsing "setuptools.glob" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\glob.py")
+2017-09-10T13:13:40: Parsing "setuptools.launch" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\launch.py")
+2017-09-10T13:13:40: Parsing "setuptools.lib2to3_ex" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-09-10T13:13:40: Parsing "setuptools.monkey" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\monkey.py")
+2017-09-10T13:13:40: Parsing "setuptools.msvc" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\msvc.py")
+2017-09-10T13:13:40: Parsing "setuptools.namespaces" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\namespaces.py")
+2017-09-10T13:13:40: Parsing "setuptools.package_index" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\package_index.py")
+2017-09-10T13:13:40: Parsing "setuptools.py26compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\py26compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.py27compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\py27compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.py31compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\py31compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.py33compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\py33compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.py36compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\py36compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.sandbox" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\sandbox.py")
+2017-09-10T13:13:40: Parsing "setuptools.ssl_support" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\ssl_support.py")
+2017-09-10T13:13:40: Parsing "setuptools.unicode_utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\unicode_utils.py")
+2017-09-10T13:13:40: Parsing "setuptools.version" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\version.py")
+2017-09-10T13:13:40: Parsing "setuptools.windows_support" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\windows_support.py")
+2017-09-10T13:13:40: Parsing "setuptools" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\__init__.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.alias" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\alias.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.bdist_egg" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.bdist_rpm" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.bdist_wininst" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.build_clib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\build_clib.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.build_ext" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\build_ext.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.build_py" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\build_py.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.develop" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\develop.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.easy_install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\easy_install.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.egg_info" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\egg_info.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\install.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.install_egg_info" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.install_lib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\install_lib.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.install_scripts" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.py36compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\py36compat.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.register" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\register.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.rotate" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\rotate.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.saveopts" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\saveopts.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.sdist" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\sdist.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.setopt" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\setopt.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.test" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\test.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.upload" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\upload.py")
+2017-09-10T13:13:40: Parsing "setuptools.command.upload_docs" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-09-10T13:13:40: Parsing "setuptools.command" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\command\__init__.py")
+2017-09-10T13:13:40: Parsing "setuptools.extern" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools\extern\__init__.py")
+2017-09-10T13:13:40: Parsing complete
+2017-09-10T13:13:40: Analyzing "setuptools.archive_util"
+2017-09-10T13:13:40: Analyzing "setuptools.config"
+2017-09-10T13:13:40: Analyzing "setuptools.depends"
+2017-09-10T13:13:40: Analyzing "setuptools.dep_util"
+2017-09-10T13:13:40: Analyzing "setuptools.dist"
+2017-09-10T13:13:40: Analyzing "setuptools.extension"
+2017-09-10T13:13:40: Analyzing "setuptools.glob"
+2017-09-10T13:13:40: Analyzing "setuptools.launch"
+2017-09-10T13:13:40: Analyzing "setuptools.lib2to3_ex"
+2017-09-10T13:13:40: Analyzing "setuptools.monkey"
+2017-09-10T13:13:40: Analyzing "setuptools.msvc"
+2017-09-10T13:13:40: Analyzing "setuptools.namespaces"
+2017-09-10T13:13:40: Analyzing "setuptools.package_index"
+2017-09-10T13:13:40: Analyzing "setuptools.py26compat"
+2017-09-10T13:13:40: Analyzing "setuptools.py27compat"
+2017-09-10T13:13:40: Analyzing "setuptools.py31compat"
+2017-09-10T13:13:40: Analyzing "setuptools.py33compat"
+2017-09-10T13:13:40: Analyzing "setuptools.py36compat"
+2017-09-10T13:13:40: Analyzing "setuptools.sandbox"
+2017-09-10T13:13:40: Analyzing "setuptools.ssl_support"
+2017-09-10T13:13:40: Analyzing "setuptools.unicode_utils"
+2017-09-10T13:13:40: Analyzing "setuptools.version"
+2017-09-10T13:13:40: Analyzing "setuptools.windows_support"
+2017-09-10T13:13:40: Analyzing "setuptools"
+2017-09-10T13:13:40: Analyzing "setuptools.command.alias"
+2017-09-10T13:13:40: Analyzing "setuptools.command.bdist_egg"
+2017-09-10T13:13:40: Analyzing "setuptools.command.bdist_rpm"
+2017-09-10T13:13:40: Analyzing "setuptools.command.bdist_wininst"
+2017-09-10T13:13:40: Analyzing "setuptools.command.build_clib"
+2017-09-10T13:13:40: Analyzing "setuptools.command.build_ext"
+2017-09-10T13:13:40: Analyzing "setuptools.command.build_py"
+2017-09-10T13:13:40: Analyzing "setuptools.command.develop"
+2017-09-10T13:13:40: Analyzing "setuptools.command.easy_install"
+2017-09-10T13:13:40: Analyzing "setuptools.command.egg_info"
+2017-09-10T13:13:40: Analyzing "setuptools.command.install"
+2017-09-10T13:13:40: Analyzing "setuptools.command.install_egg_info"
+2017-09-10T13:13:40: Analyzing "setuptools.command.install_lib"
+2017-09-10T13:13:40: Analyzing "setuptools.command.install_scripts"
+2017-09-10T13:13:40: Analyzing "setuptools.command.py36compat"
+2017-09-10T13:13:40: Analyzing "setuptools.command.register"
+2017-09-10T13:13:40: Analyzing "setuptools.command.rotate"
+2017-09-10T13:13:40: Analyzing "setuptools.command.saveopts"
+2017-09-10T13:13:40: Analyzing "setuptools.command.sdist"
+2017-09-10T13:13:40: Analyzing "setuptools.command.setopt"
+2017-09-10T13:13:40: Analyzing "setuptools.command.test"
+2017-09-10T13:13:40: Analyzing "setuptools.command.upload"
+2017-09-10T13:13:40: Analyzing "setuptools.command.upload_docs"
+2017-09-10T13:13:40: Analyzing "setuptools.command"
+2017-09-10T13:13:40: Analyzing "setuptools.extern"
+2017-09-10T13:13:40: Starting analysis of 49 modules
+2017-09-10T13:13:43: Analysis complete
+2017-09-10T13:13:43: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools"
+2017-09-10T13:13:43: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\setuptools"
+2017-09-10T13:13:43: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug" with 39 files
+2017-09-10T13:13:43: Parsing "werkzeug.datastructures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\datastructures.py")
+2017-09-10T13:13:43: Parsing "werkzeug.exceptions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\exceptions.py")
+2017-09-10T13:13:43: Parsing "werkzeug.filesystem" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\filesystem.py")
+2017-09-10T13:13:43: Parsing "werkzeug.formparser" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\formparser.py")
+2017-09-10T13:13:43: Parsing "werkzeug.http" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\http.py")
+2017-09-10T13:13:43: Parsing "werkzeug.local" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\local.py")
+2017-09-10T13:13:43: Parsing "werkzeug.posixemulation" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\posixemulation.py")
+2017-09-10T13:13:43: Parsing "werkzeug.routing" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\routing.py")
+2017-09-10T13:13:43: Parsing "werkzeug.script" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\script.py")
+2017-09-10T13:13:43: Parsing "werkzeug.security" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\security.py")
+2017-09-10T13:13:43: Parsing "werkzeug.serving" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\serving.py")
+2017-09-10T13:13:43: Parsing "werkzeug.test" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\test.py")
+2017-09-10T13:13:43: Parsing "werkzeug.testapp" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\testapp.py")
+2017-09-10T13:13:43: Parsing "werkzeug.urls" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\urls.py")
+2017-09-10T13:13:43: Parsing "werkzeug.useragents" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\useragents.py")
+2017-09-10T13:13:43: Parsing "werkzeug.utils" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\utils.py")
+2017-09-10T13:13:43: Parsing "werkzeug.wrappers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\wrappers.py")
+2017-09-10T13:13:43: Parsing "werkzeug.wsgi" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\wsgi.py")
+2017-09-10T13:13:43: Parsing "werkzeug._compat" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\_compat.py")
+2017-09-10T13:13:43: Parsing "werkzeug._internal" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\_internal.py")
+2017-09-10T13:13:43: Parsing "werkzeug._reloader" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\_reloader.py")
+2017-09-10T13:13:43: Parsing "werkzeug" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\__init__.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.atom" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\atom.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.cache" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\cache.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.fixers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\fixers.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.iterio" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\iterio.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.jsrouting" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.limiter" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\limiter.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.lint" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\lint.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.profiler" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\profiler.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.securecookie" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.sessions" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\sessions.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.testtools" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\testtools.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib.wrappers" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2017-09-10T13:13:43: Parsing "werkzeug.contrib" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\contrib\__init__.py")
+2017-09-10T13:13:43: Parsing "werkzeug.debug.console" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\debug\console.py")
+2017-09-10T13:13:43: Parsing "werkzeug.debug.repr" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\debug\repr.py")
+2017-09-10T13:13:43: Parsing "werkzeug.debug.tbtools" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\debug\tbtools.py")
+2017-09-10T13:13:43: Parsing "werkzeug.debug" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug\debug\__init__.py")
+2017-09-10T13:13:43: Parsing complete
+2017-09-10T13:13:43: Analyzing "werkzeug.datastructures"
+2017-09-10T13:13:43: Analyzing "werkzeug.exceptions"
+2017-09-10T13:13:43: Analyzing "werkzeug.filesystem"
+2017-09-10T13:13:43: Analyzing "werkzeug.formparser"
+2017-09-10T13:13:43: Analyzing "werkzeug.http"
+2017-09-10T13:13:43: Analyzing "werkzeug.local"
+2017-09-10T13:13:43: Analyzing "werkzeug.posixemulation"
+2017-09-10T13:13:43: Analyzing "werkzeug.routing"
+2017-09-10T13:13:43: Analyzing "werkzeug.script"
+2017-09-10T13:13:43: Analyzing "werkzeug.security"
+2017-09-10T13:13:43: Analyzing "werkzeug.serving"
+2017-09-10T13:13:43: Analyzing "werkzeug.test"
+2017-09-10T13:13:43: Analyzing "werkzeug.testapp"
+2017-09-10T13:13:43: Analyzing "werkzeug.urls"
+2017-09-10T13:13:43: Analyzing "werkzeug.useragents"
+2017-09-10T13:13:43: Analyzing "werkzeug.utils"
+2017-09-10T13:13:43: Analyzing "werkzeug.wrappers"
+2017-09-10T13:13:43: Analyzing "werkzeug.wsgi"
+2017-09-10T13:13:43: Analyzing "werkzeug._compat"
+2017-09-10T13:13:43: Analyzing "werkzeug._internal"
+2017-09-10T13:13:43: Analyzing "werkzeug._reloader"
+2017-09-10T13:13:43: Analyzing "werkzeug"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.atom"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.cache"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.fixers"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.iterio"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.jsrouting"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.limiter"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.lint"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.profiler"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.securecookie"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.sessions"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.testtools"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib.wrappers"
+2017-09-10T13:13:43: Analyzing "werkzeug.contrib"
+2017-09-10T13:13:43: Analyzing "werkzeug.debug.console"
+2017-09-10T13:13:43: Analyzing "werkzeug.debug.repr"
+2017-09-10T13:13:43: Analyzing "werkzeug.debug.tbtools"
+2017-09-10T13:13:43: Analyzing "werkzeug.debug"
+2017-09-10T13:13:43: Starting analysis of 39 modules
+2017-09-10T13:13:47: Analysis complete
+2017-09-10T13:13:47: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug"
+2017-09-10T13:13:47: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\werkzeug"
+2017-09-10T13:13:47: Start group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel" with 28 files
+2017-09-10T13:13:47: Parsing "wheel.archive" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\archive.py")
+2017-09-10T13:13:47: Parsing "wheel.bdist_wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\bdist_wheel.py")
+2017-09-10T13:13:47: Parsing "wheel.decorator" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\decorator.py")
+2017-09-10T13:13:47: Parsing "wheel.egg2wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\egg2wheel.py")
+2017-09-10T13:13:47: Parsing "wheel.install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\install.py")
+2017-09-10T13:13:47: Parsing "wheel.metadata" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\metadata.py")
+2017-09-10T13:13:47: Parsing "wheel.paths" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\paths.py")
+2017-09-10T13:13:47: Parsing "wheel.pep425tags" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\pep425tags.py")
+2017-09-10T13:13:47: Parsing "wheel.pkginfo" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\pkginfo.py")
+2017-09-10T13:13:47: Parsing "wheel.util" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\util.py")
+2017-09-10T13:13:47: Parsing "wheel.wininst2wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\wininst2wheel.py")
+2017-09-10T13:13:47: Parsing "wheel" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\__init__.py")
+2017-09-10T13:13:47: Parsing "wheel.__main__" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\__main__.py")
+2017-09-10T13:13:47: Parsing "wheel.signatures.djbec" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\signatures\djbec.py")
+2017-09-10T13:13:47: Parsing "wheel.signatures.ed25519py" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\signatures\ed25519py.py")
+2017-09-10T13:13:47: Parsing "wheel.signatures.keys" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\signatures\keys.py")
+2017-09-10T13:13:47: Parsing "wheel.signatures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\signatures\__init__.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_basic" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_basic.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_install" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_install.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_keys" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_keys.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_paths" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_paths.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_ranking" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_ranking.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_signatures" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_signatures.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_tagopt" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_tagopt.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_tool" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_tool.py")
+2017-09-10T13:13:47: Parsing "wheel.test.test_wheelfile" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\test_wheelfile.py")
+2017-09-10T13:13:47: Parsing "wheel.test" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\test\__init__.py")
+2017-09-10T13:13:47: Parsing "wheel.tool" ("C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel\tool\__init__.py")
+2017-09-10T13:13:47: Parsing complete
+2017-09-10T13:13:47: Analyzing "wheel.archive"
+2017-09-10T13:13:47: Analyzing "wheel.bdist_wheel"
+2017-09-10T13:13:47: Analyzing "wheel.decorator"
+2017-09-10T13:13:47: Analyzing "wheel.egg2wheel"
+2017-09-10T13:13:47: Analyzing "wheel.install"
+2017-09-10T13:13:47: Analyzing "wheel.metadata"
+2017-09-10T13:13:47: Analyzing "wheel.paths"
+2017-09-10T13:13:47: Analyzing "wheel.pep425tags"
+2017-09-10T13:13:47: Analyzing "wheel.pkginfo"
+2017-09-10T13:13:47: Analyzing "wheel.util"
+2017-09-10T13:13:47: Analyzing "wheel.wininst2wheel"
+2017-09-10T13:13:47: Analyzing "wheel"
+2017-09-10T13:13:47: Analyzing "wheel.__main__"
+2017-09-10T13:13:47: Analyzing "wheel.signatures.djbec"
+2017-09-10T13:13:47: Analyzing "wheel.signatures.ed25519py"
+2017-09-10T13:13:47: Analyzing "wheel.signatures.keys"
+2017-09-10T13:13:47: Analyzing "wheel.signatures"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_basic"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_install"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_keys"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_paths"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_ranking"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_signatures"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_tagopt"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_tool"
+2017-09-10T13:13:47: Analyzing "wheel.test.test_wheelfile"
+2017-09-10T13:13:47: Analyzing "wheel.test"
+2017-09-10T13:13:47: Analyzing "wheel.tool"
+2017-09-10T13:13:47: Starting analysis of 28 modules
+2017-09-10T13:13:49: Analysis complete
+2017-09-10T13:13:49: Saving group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel"
+2017-09-10T13:13:49: End of group "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Lib\site-packages\wheel"
+2017-09-10T13:13:49: Deleting 0 files
+
+2017-09-10T13:43:51: Start analysis
+2017-09-10T13:43:51: [WARNING] Library was set explicitly - skipping path detection
+2017-09-10T13:43:51: IncludeModulesFromModulePath = win32com
+2017-09-10T13:43:51: Deleting 686 files
+2017-09-10T13:43:52: Scraping builtin modules
+2017-09-10T13:43:52: Command: "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\Dharshini\documents\visual studio 2015\Projects\NameSorter\NameSorter\env1\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-09-10T13:43:52: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ModuleNotFoundError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ModuleNotFoundError: No module named 'pickle'
+2017-09-10T13:43:52: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-09-10T13:43:52: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
+
+2017-09-10T13:44:55: Start analysis
+2017-09-10T13:44:55: [WARNING] Library was set explicitly - skipping path detection
+2017-09-10T13:44:55: IncludeModulesFromModulePath = win32com
+2017-09-10T13:44:55: Deleting 0 files
+2017-09-10T13:44:55: Scraping builtin modules
+2017-09-10T13:44:55: Command: "C:\Users\Dharshini\Documents\Visual Studio 2015\Projects\NameSorter\NameSorter\env1\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" "C:\Users\Dharshini\Documents\Visual Studio 2015\Projects\NameSorter\NameSorter\env1\.ptvs\\" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-09-10T13:44:55: [WARNING] Errors
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 113, in <module>
+    import cPickle as pickle
+ModuleNotFoundError: No module named 'cPickle'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py", line 115, in <module>
+    import pickle # Py3k
+ModuleNotFoundError: No module named 'pickle'
+2017-09-10T13:44:55: [ERROR] Failed to scrape builtin modules (Exit Code: 1)
+2017-09-10T13:44:55: [ERROR] Analysis failed
+System.InvalidOperationException: Failed to scrape builtin modules
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Scrape>d__53.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<RunWorker>d__31.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.PythonTools.Analysis.PyLibAnalyzer.<Run>d__30.MoveNext()
